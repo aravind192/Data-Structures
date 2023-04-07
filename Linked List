@@ -1,2 +1,26 @@
-hello
-##hello
+Definition:
+	Linked List is a collection of nodes were every node containes two fields (data, address) in the data field related data will be stored and in address field address
+	of previous or next node address will be stores.
+
+Linked List Types:
+  Single Linked List,
+  Double Linked List,
+  Circular Linked List.
+  
+  
+Single Linked List:
+	In a single linked list every node contains data field and one address field which stores address of next node. if it's the last node then address field contains 		null value.
+	(Single Linked List can travel in one direction.)
+	
+
+Double Linked List:
+	In a Double Linked List every node contains data field and two address field which stores addresses of previous node and next node. In double linked list we can 		traverse both forward and backwards direction.
+	
+
+Circular Linked List:
+	In a Circular linked list the last node of linked list is connected with first node of linked list. which forms circular linked list.
+
+
+
+  
+
