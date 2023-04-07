@@ -9,12 +9,14 @@ Linked List Types:
   
   
 Single Linked List:
-	In a single linked list every node contains data field and one address field which stores address of next node. if it's the last node then address field contains 		null value.
+	In a single linked list every node contains data field and one address field which stores address of next node.
+	if it's the last node then address field contains null value.
 	(Single Linked List can travel in one direction.)
 	
 
 Double Linked List:
-	In a Double Linked List every node contains data field and two address field which stores addresses of previous node and next node. In double linked list we can 		traverse both forward and backwards direction.
+	In a Double Linked List every node contains data field and two address field which stores addresses of previous node and next node. 
+	In double linked list we can traverse both forward and backwards direction.
 	
 
 Circular Linked List:
