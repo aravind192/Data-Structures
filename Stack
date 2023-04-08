@@ -1,0 +1,9 @@
+Stack Definition:
+			Stack is a liner data structure. where insertion and deletion operations are performed from on end (side).
+			stack is also know as LIFO (Last In First Out) last item served first.
+
+monotonic stack:
+			the items inside the stack in order (increasing or decreasing).
+			
+			Used:	when we want to find, first (greatest or smallest) value for every item.
+		
