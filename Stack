@@ -1,6 +1,9 @@
 Stack Definition:
 			Stack is a liner data structure. where insertion and deletion operations are performed from on end (side).
 			stack is also know as LIFO (Last In First Out) last item served first.
+		
+		Used: 	Stack is used in DFS (Depth First Search) Algorithm.
+			Recursion internally use stack data structure to execute the code.
 
 monotonic stack:
 			the items inside the stack in order (increasing or decreasing).
