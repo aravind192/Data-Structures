@@ -1,0 +1,4 @@
+Queue Definition: Queue is a linear data structure. where insertion is performed from front of queue and deletion is performed from rear of the queue.
+                  Queue also know as FIFO (FIrst In First Out) whatever the element enter the first will be executed first.
+
+  Queue Used: Queue data structure is used in BFS (Breath first search) Algorithm.
